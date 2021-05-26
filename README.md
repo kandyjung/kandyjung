@@ -1,6 +1,8 @@
 ### Hi there 👋
 🌱 I’m currently studying Computer Engineering
 
+[[https://spotify-github-profile.vercel.app/api/view.svg?uid=6azfr9lxbnba6spxzotgg5lnh&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=6azfr9lxbnba6spxzotgg5lnh&cover_image=true&theme=novatorem)]]
+
 <!--
 **kandyjung/kandyjung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
