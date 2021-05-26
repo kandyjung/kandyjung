@@ -1,6 +1,7 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 🌱 I’m currently studying Computer Engineering
-<img src="https://media4.giphy.com/media/gVlgj80ZLp9yo/giphy.gif?cid=ecf05e47fu935qowbfv9yh0f0sxqwd3z4cq88afwshc46mh3&rid=giphy.gif&ct=g" alt="Coder GIF" width="500">
+    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+
  
 ### Languages and Tools:
 
