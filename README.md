@@ -9,10 +9,6 @@
 ### Languages and Tools:
 <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"> <img src="https://media0.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif?cid=ecf05e47kwlc47gc161jfm763omxk2lowz6qs2jojxat865r&rid=giphy.gif&ct=s" width="100"> <img src="https://media1.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif?cid=ecf05e47jl0ga2ekolmex5j0336wq7oizgdlhowq87wzg1ll&rid=giphy.gif&ct=s" width="100"> <img src="https://media2.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif?cid=ecf05e479yl4c7dbvluezfugoo68xmkz7it4me96pkzlq1f6&rid=giphy.gif&ct=s" width="100">
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <br />
 <br />
 
