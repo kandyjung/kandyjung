@@ -19,10 +19,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kandyjung&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-
-![](https://visitor-badge.glitch.me/badge?page_id=kandyjung.kandyjung)
-
 📫 How to reach me: 6131501023@lamdyan.mfu.ac.th
+![](https://visitor-badge.glitch.me/badge?page_id=kandyjung.kandyjung)
 
 
 
