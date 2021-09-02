@@ -16,7 +16,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kandyjung&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-📫 How to reach me: 6131501023@lamdyan.mfu.ac.th
+📫 How to reach me: 6131501023@lamduan.mfu.ac.th
 <br />
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 <br />
